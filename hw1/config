@@ -1,0 +1,5 @@
+NICK='ROBOT_WooL'
+USER='robot_WooL'
+CHANNEL='#cs2013'
+IP='irc.freenode.net'
+PORT='6667'
